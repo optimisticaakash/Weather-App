@@ -10,7 +10,7 @@ A clean, simple, and responsive weather application that provides real-time weat
 You can view the live project here:
 **[weather-app-five-alpha-37.vercel.app](https://weather-app-five-alpha-37.vercel.app/)**
 
-*(You can add a screenshot of your app here if you like)*
+
 ## ✨ Features
 
 - **City Search**: Allows users to search for the weather in any city.
