@@ -2,6 +2,9 @@
 
 A clean, simple, and responsive weather application that provides real-time weather data for any city around the world. This project is built using HTML, CSS, and vanilla JavaScript, and it fetches data from a third-party weather API.
 
+<img width="1440" height="724" alt="image" src="https://github.com/user-attachments/assets/27a1ad76-9dc2-451f-8b86-cff5a0883d91" />
+
+
 ## 🚀 Live Demo
 
 You can view the live project here:
