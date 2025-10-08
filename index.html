@@ -93,6 +93,12 @@
         checkweather(searchBox.value);
     })
     
+     // Enter press karne ke liye naya event listener
+    searchBox.addEventListener("keyup", (event) => {
+        if (event.key === "Enter") {
+            checkweather(searchBox.value);
+        }
+    });
     </script>
 </body>
 </html>              
